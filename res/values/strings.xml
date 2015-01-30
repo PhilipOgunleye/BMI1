@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Coded by Loirak Development</string>
+    <string name="app_name">BMI Calculator</string>
+    <string name="defaultheight">75</string>
+    <string name="defaultweight">205</string>
+    <string name="instheight">Enter height in inches:</string>
+    <string name="instweight">Enter weight in lbs:</string>
+    <string name="insttext">Your BMI of 25.62 is OVERWEIGHT.</string>
+</resources>
